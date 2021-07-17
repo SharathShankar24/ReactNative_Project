@@ -11,15 +11,25 @@ npx react-native init "Your App Name"
 After initializing your app install the required dependencies.
 
 npm install react-navigation
+
 npm install react-native-vector-icons
+
 npm install react-native-screens
+
 npm install react-native-safe-area-context
+
 npm install react-native-paper
+
 npm install react-native-material-ripple
+
 npm install react-native-gesture-handler
+
 npm install @react-navigation/stack
+
 npm install @react-navigation/native
+
 npm install @react-native-community/masked-view
+
 npm install @react-native-async-storage/async-storage
 
 
@@ -36,4 +46,6 @@ You can delete the task once you have completed it.
 
 ![image](https://user-images.githubusercontent.com/86832758/126046165-9709302d-7eca-4ad3-aafc-13de511a6e93.png)
 
+
+https://user-images.githubusercontent.com/86832758/126046292-2f7fd353-090d-4ecd-b7fa-82f80a3359ed.mp4
 
