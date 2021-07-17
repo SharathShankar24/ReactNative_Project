@@ -3,11 +3,13 @@
 A simple to-do app done with React Native
 
 How to create this app?
+
 Install React Native in your PC and setup the environment with Android Studio with the help of https://reactnative.dev/
 
 Use the following command after installing React-Native in your PC
 
 npx react-native init "Your App Name"
+
 After initializing your app install the required dependencies.
 
 npm install react-navigation
