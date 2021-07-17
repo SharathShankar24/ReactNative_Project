@@ -34,12 +34,14 @@ npm install @react-native-async-storage/async-storage
 
 
 Main Screen
+
 This screen consists of a image, title and a button to navigate to the Tasks To-do Screen.
 
 When you press the Tasks, it takes you to the Tasks To-do screen.
 
 
 Tasks To-do Screen
+
 Input yout text in the text input section and add your work.
 
 You can delete the task once you have completed it.
